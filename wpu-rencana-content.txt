@@ -3,6 +3,8 @@ RENCANA KONTEN WPU
 - Javascript
   - ES6
   - Framework Javascript
+    -tes
+    -ayam
 - Struktur data dasar
 - PHP Frameworks
 - Interview
